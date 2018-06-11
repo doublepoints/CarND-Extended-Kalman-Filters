@@ -87,6 +87,6 @@ for instructions and the project rubric.
 ## Result
 I successfully obtained an RMSE [0.0955, 0.873, 0.3692, 0.4342], which satisfies the requirement RMSE <= [.11, .11, 0.52, 0.52].
 And the screenshot is shown below:
-![](/home/doublepoints/Documents/selfdriving-T2/CarND-Extended-Kalman-Filter-Project/Result/Result.jpg) 
+![](https://github.com/doublepoints/CarND-Extended-Kalman-Filters/blob/master/Result/Result.jpg) 
 
 
